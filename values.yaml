@@ -23,4 +23,4 @@ hpa:
   targetCPUUtilizationPercentage: 75
 
 configmap:
-  servicio_bdd_url: "http://servicio-bdd-service.otsugua04-dev.svc.cluster.local/api/bdd/"
+  servicio_bdd_url: "http://servicio-bdd-otsugua04-dev.apps.rm2.thpm.p1.openshiftapps.com/api/bdd/api/bdd/"
